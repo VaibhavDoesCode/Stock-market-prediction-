@@ -16,5 +16,3 @@ How It Works 🚀
 Input Stock Symbol: Users input a stock symbol (e.g., AAPL, TSLA).
 Prediction Display: The app displays the predicted trend for the stock based on historical data.
 Visual Representation: Predictions and historical prices are displayed in graphs for better insights.
-
-
